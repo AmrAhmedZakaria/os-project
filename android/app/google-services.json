@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "551957037294",
+    "firebase_url": "https://online-book-store-b17dd-default-rtdb.firebaseio.com",
+    "project_id": "online-book-store-b17dd",
+    "storage_bucket": "online-book-store-b17dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551957037294:android:3a4851d41a88c3eb42b3ff",
+        "android_client_info": {
+          "package_name": "com.example.Book_Shelf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNbhQxrgUZjPMeNe_Zb3scFBfrTaUC1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

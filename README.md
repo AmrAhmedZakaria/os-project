@@ -6,9 +6,7 @@ This project aims to develop an online book store application using Flutter, a c
 
 - **Amr Ahmed Zakaria**
 - **Omar Ashraf**
-- **Abdelrhman Karim**
 - **Omar Yasser**
-- **Abdullah Rezk**
 
 ## Project Overview
 
@@ -32,7 +30,7 @@ The Online Book Store project aims to create a user-friendly and feature-rich ap
 
 To install and run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/AmrAhmedZakaria/Software-Project.git`
+1. Clone the repository: `git clone https://github.com/AmrAhmedZakaria/os-project.git`
 2. Navigate to the project directory: `cd Software-Project`
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
